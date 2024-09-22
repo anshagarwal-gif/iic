@@ -1,0 +1,25 @@
+@import url("https://fonts.googleapis.com/css2?family=Source+Sans+Pro:wght@400&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Inter:wght@700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Lora:wght@700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Barlow+Semi+Condensed:wght@700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Goblin+One");
+@import url("https://fonts.googleapis.com/css2?family=Sen");
+@font-face {
+  font-family: "Whyte Inktrap";
+  src: url("/public/WhyteInktrap-Black.ttf");
+  font-weight: 400;
+}
+
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+body {
+  @apply leading-[normal] m-0;
+  overflow-x: hidden
+}
+*,
+::before,
+::after {
+  border-width: 0;
+}

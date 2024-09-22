@@ -1,0 +1,60 @@
+@keyframes slideFromLeft1 {
+    0% {
+      transform: translateX(-100%);
+      opacity: 0;
+    }
+    100% {
+      transform: translateX(0);
+      opacity: 1;
+    }
+  }
+  @keyframes slideFromBottomLeftToCenter {
+    0% {
+      transform: translate(-200%, 100%) scale(0.4);
+      opacity: 0;
+    }
+    100% {
+      transform: translate(-60%, 60%) scale(1); 
+      opacity: 1;
+    }
+  }
+  @keyframes slideFromLeft2 {
+    0% {
+      transform: translateX(-100%) scale(0.4);
+      opacity: 0;
+    }
+    100% {
+      transform: translateX(-40%) scale(1);
+      opacity: 1;
+    }
+  }
+  
+  .asteroidAnimation {
+    animation: slideFromLeft2 2s ease-in-out forwards;
+  }
+  .rocketAnimation {
+    animation: slideFromBottomLeftToCenter 2s ease-in-out forwards;
+  }
+  @keyframes fadeInFromBelow {
+    0% {
+      opacity: 0;
+      transform: translateY(100%); 
+    }
+    100% {
+      opacity: 1;
+      transform: translateY(0); 
+    }
+  }
+  .textAnimation {
+    animation: fadeInFromBelow 2s ease-in-out forwards;
+    position: absolute;
+    bottom: 0%;
+    padding-bottom: 3rem;
+    padding: 1rem; 
+    background: white; 
+    width: 100vw;
+    height: 22vh;
+    font-family: "Lora";
+    z-index: 3
+  }
+  

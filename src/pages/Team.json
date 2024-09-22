@@ -1,0 +1,112 @@
+{
+  "Ambassadors": {
+    "members": [
+      { "name": "Atharv Shejul", "link": "PhotoShoot/Ambassadors/Atharv_Shejul.jpg", "position": "Ambassador" },
+      { "name": "Mandar Chatarkar", "link": "PhotoShoot/Ambassadors/Mandar_Chatarkar.png", "position": "Ambassador" },
+      { "name": "Mohit Bansal", "link": "PhotoShoot/Ambassadors/Mohit_Bansal.JPG", "position": "Ambassador" },
+      { "name": "Mugdha Jadhav", "link": "PhotoShoot/Ambassadors/Mugdha_Jadhav.jpg", "position": "Ambassador" },
+      { "name": "Sahil Yadav", "link": "PhotoShoot/Ambassadors/Sahil_Yadav.jpg", "position": "Ambassador" },
+      { "name": "Tanvi Gadre", "link": "PhotoShoot/Ambassadors/Tanvi_Gadre.jpg", "position": "Ambassador" }
+    ]
+  },
+  "Content": {
+    "members": [
+      { "name": "Abhinav Jaiswal", "link": "PhotoShoot/Content/Abhinav_Jaiswal.jpg", "position": "Content Creator" },
+      { "name": "Madhura Gondhalekar", "link": "PhotoShoot/Content/Madhura_Gondhalekar.jpg", "position": "Lead" },
+      { "name": "Mihir Soman", "link": "PhotoShoot/Content/Mihir_Soman.jpg", "position": "Content Creator" },
+      { "name": "Nidhi Phophaliya", "link": "PhotoShoot/Content/Nidhi_Phophaliya.jpg", "position": "Content Creator" },
+      { "name": "Tanvi Shethia", "link": "PhotoShoot/Content/Tanvi_Shethia.jpg", "position": "Content Creator" }
+    ]
+  },
+  "Core": {
+    "members": [
+      { "name": "Anisha Jain", "link": "PhotoShoot/Core/Anisha_Jain.JPG", "position": "Core Member" },
+      { "name": "Aryan Joge", "link": "PhotoShoot/Core/Aryan_Joge.jpg", "position": "Core Member" },
+      { "name": "Atharva Nimbalkar", "link": "PhotoShoot/Core/Atharva_Nimbalkar.JPG", "position": "Core Member" },
+      { "name": "Utkarsha Undre", "link": "PhotoShoot/Core/Utkarsha_Undre.jpg", "position": "Core Member" }
+    ]
+  },
+  "Design": {
+    "members": [
+      { "name": "Aalok Nikam", "link": "PhotoShoot/Design/Aalok_Nikam.jpg", "position": "Designer" },
+      { "name": "Aryan Varale", "link": "PhotoShoot/Design/Aryan_Varale.jpg", "position": "Designer" },
+      { "name": "Bhagyashree Bhagwatkar", "link": "PhotoShoot/Design/Bhagyashree_Bhagwatkar.jpg", "position": "Designer" },
+      { "name": "Harshwardhan Jatal", "link": "PhotoShoot/Design/Harshwardhan_Jatal.jpg", "position": "Designer" },
+      { "name": "Revant Katuri", "link": "PhotoShoot/Design/Revant_Katuri.jpg", "position": "Designer" },
+      { "name": "Sarthak Salunke", "link": "PhotoShoot/Design/Sarthak_Salunke.jpg", "position": "Designer" },
+      { "name": "Tanuja Jagtap", "link": "PhotoShoot/Design/Tanuja_Jagtap.jpg", "position": "Designer" }, 
+      { "name": "Yashvendra Dhandal", "link": "PhotoShoot/Design/Yashvendra_Dhandal.jpg", "position": "Lead" }
+
+    ]
+  },
+  "Faculties": {
+    "members": [
+      { "name": "Dr. Ashok Todmal", "link": "PhotoShoot/Faculties/Dr._Ashok_Todmal.jpg", "position": "Faculty" },
+      { "name": "Nitin Chorge", "link": "PhotoShoot/Faculties/Nitin_Chorge.jpg", "position": "Faculty" },
+      { "name": "Prof. Dr. Rakesh Sidheshwar", "link": "PhotoShoot/Faculties/Prof._Dr._Rakesh_Sidheshwar.jpg", "position": "Faculty" },
+      { "name": "Prof. Dr. Virendra Bhojwani", "link": "PhotoShoot/Faculties/Prof._Dr._Virendra_Bhojwani.jpg", "position": "Faculty" },
+      { "name": "Prof. Moushmee Kuri Reena Dalvi", "link": "PhotoShoot/Faculties/Prof._Moushmee_Kuri_Reena_Dalvi.jpg", "position": "Faculty" },
+      { "name": "Prof. Neha Zope", "link": "PhotoShoot/Faculties/Prof._Neha_Zope.jpg", "position": "Faculty" },
+      { "name": "Prof. Pratik Joshi", "link": "PhotoShoot/Faculties/Prof._Pratik_Joshi.JPG", "position": "Faculty" },
+      { "name": "Prof. Sneha Singha", "link": "PhotoShoot/Faculties/Prof._Sneha_Singha.jpg", "position": "Faculty" }
+    ]
+  },
+  "Management": {
+    "members": [
+      { "name": "Aditi Patwa", "link": "PhotoShoot/Management/Aditi_Patwa.jpg", "position": "Manager" },
+      { "name": "Aryan Chawan", "link": "PhotoShoot/Management/Aryan_Chawan.jpg", "position": "Manager" },
+      { "name": "Harsh Kumar", "link": "PhotoShoot/Management/Harsh_Kumar.jpg", "position": "Lead" },
+      { "name": "Manjiri Deotalu", "link": "PhotoShoot/Management/Manjiri_Deotalu.jpg", "position": "Manager" },
+      { "name": "Ninad Borawake", "link": "PhotoShoot/Management/Ninad_Borawake.jpg", "position": "Manager" },
+      { "name": "Rohan Shitole", "link": "PhotoShoot/Management/Rohan_Shitole.jpg", "position": "Manager" },
+      { "name": "Rohit Gadoya", "link": "PhotoShoot/Management/Rohit_Gadoya.jpg", "position": "Management Lead" },
+      { "name": "Shreya Bhagwat", "link": "PhotoShoot/Management/Shreya_Bhagwat.jpg", "position": "Manager" },
+      { "name": "Soham Dheemate", "link": "PhotoShoot/Management/Soham_Dheemate.jpg", "position": "Manager" },
+      { "name": "Suhani Hyalij", "link": "PhotoShoot/Management/Suhani_Hyalij.jpg", "position": "Manager" },
+      { "name": "Tanmay Sinha", "link": "PhotoShoot/Management/Tanmay_Sinha.jpg", "position": "Manager" },
+      { "name": "Yashika Dhanwani", "link": "PhotoShoot/Management/Yashika_Dhanwani.jpg", "position": "Manager" },
+      { "name": "Zia Kapoor", "link": "PhotoShoot/Management/Zia_Kapoor.jpg", "position": "Manager" }
+    ]
+  },
+  "Marketing": {
+    "members": [
+      { "name": "Aarya Kulkarni", "link": "PhotoShoot/Marketing/Aarya_Kulkarni.jpg", "position": "Marketing Executive" },
+      { "name": "Burhanuddin K", "link": "PhotoShoot/Marketing/Burhanuddin_K.jpg", "position": "Marketing Executive" },
+      { "name": "Ishita Jain", "link": "PhotoShoot/Marketing/Ishita_Jain.jpg", "position": "Marketing Executive" },
+      { "name": "Mangesh Bhangale", "link": "PhotoShoot/Marketing/Mangesh_Bhangale.jpg", "position": "Marketing Executive" },
+      { "name": "Pranita Potghan", "link": "PhotoShoot/Marketing/Pranita_Potghan.jpg", "position": "Marketing Executive" },
+      { "name": "Shreya Bhagwat", "link": "PhotoShoot/Marketing/Shreya_Bhagwat.jpg", "position": "Marketing Executive" },
+      { "name": "Vedant Gangatre", "link": "PhotoShoot/Marketing/Vedant_Gangatre.jpg", "position": "Marketing Executive Lead" }
+    ]
+  },
+  "Social Media": {
+    "members": [
+      { "name": "Aditya Sangle", "link": "PhotoShoot/Social_Media/Aditya_Sangle.JPG", "position": "Social Media Lead" },
+      { "name": "Jay Verma", "link": "PhotoShoot/Social_Media/Jay_Verma.JPG", "position": "Social Media Manager" },
+      { "name": "Shrushti Kachare", "link": "PhotoShoot/Social_Media/Shrushti_Kachare.jpg", "position": "Social Media Manager" },
+      { "name": "Soham Dhapate", "link": "PhotoShoot/Social_Media/Soham_Dhapate.JPG", "position": "Social Media Manager" },
+      { "name": "Ishita Jain", "link": "PhotoShoot/Social_Media/Ishita_Jain.jpg", "position": "Social Media Manager" },
+      { "name": "Tanay Panchal", "link": "PhotoShoot/Social_Media/Tanay_Panchal.jpg", "position": "Social Media Manager" },
+      { "name": "Yash Shivarkar", "link": "PhotoShoot/Social_Media/Yash_Shivarkar.jpg", "position": "Social Media Manager" }
+    ]
+  },
+  "Spokesperson": {
+    "members": [
+      { "name": "Ananya Singh", "link": "PhotoShoot/Spokesperson/Ananya_Singh.jpg", "position": "Spokesperson Lead" },
+      { "name": "Paneeri Naik", "link": "PhotoShoot/Spokesperson/Paneeri_Naik.jpg", "position": "Spokesperson Member" }
+    ]
+  },
+  "Technical": {
+    "members": [
+      { "name": "Abhishek Patil", "link": "PhotoShoot/Technical/Abhishek_Patil.jpg", "position": "Technical Team Member" },
+      { "name": "Bhagirath Auti", "link": "PhotoShoot/Technical/Bhagirath_Auti.jpg", "position": "Technical Team Member" },
+      { "name": "Harkeerat Dhunda", "link": "PhotoShoot/Technical/Harkeerat_Dhunda.jpg", "position": "Technical Team Lead" },
+      { "name": "Kaustubh Mane", "link": "PhotoShoot/Technical/Kaustubh_Mane.jpg", "position": "Technical Team Member" },
+      { "name": "Mahati Kapuganty", "link": "PhotoShoot/Technical/Mahati_Kapuganty.jpg", "position": "Technical Team Member" },
+      { "name": "Samay Khandelwal", "link": "PhotoShoot/Technical/Samay_Khandelwal.jpg", "position": "Technical Team Member" },
+      { "name": "Sankalp Tripathi", "link": "PhotoShoot/Technical/Sankalp_Tripathi.jpg", "position": "Technical Team Member" },
+      { "name": "Vidhan Poddar", "link": "PhotoShoot/Technical/Vidhan_Poddar.jpg", "position": "Technical Team Member" },
+      { "name": "Vilakshan", "link": "PhotoShoot/Technical/Vilakshan.jpg", "position": "Technical Team Member" }
+    ]
+  }
+}
